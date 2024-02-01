@@ -1,3 +1,2 @@
 *Pumpkin adventure*
-Pumpkin is Marcel's favorite animal who doesn't have any senses of balance
-git push --force
+The Pumpkin Toadlet is Marcel's favorite animal who doesn't have any sense of balance. It is so small that it ears became too small, too. Therefore, it cannot sense it's direction. Once it leaps into the air, it just hopes to land in an OK position.
